@@ -42,7 +42,7 @@ module.exports = function(config) {
 
 
     // enable / disable colors in the output (reporters and logs)
-    colors: true,
+    colors: true, 
 
 
     // level of logging
